@@ -1,23 +1,13 @@
 <h1 align="center">Hi 👋, I'm Moncef</h1>
 <h3 align="center">A passionate frontend developer from Morocco</h3>
 
-- 🔭 I’m currently working on [cool project](twitter.com)
-
 - 🌱 I’m currently learning **.Net framework**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 🤝 I’m looking for help with **open-source projects**
-
-- 👨‍💻 All of my projects are available at [moncefarajdal.me](moncefarajdal.me)
-
 - 💬 Ask me about **Java, Spring boot, React**
 
 - 📫 How to reach me **moncefarajdal@gmail.com**
-
-- 📄 Know about my experiences [drive.com](drive.com)
-
-- ⚡ Fun fact **I'm very tall**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
